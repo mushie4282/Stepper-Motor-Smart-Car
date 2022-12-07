@@ -1,4 +1,4 @@
-<h1> CECS 346 SPRING PROJECT 3 </h1>
+#H1 CECS 346 SPRING PROJECT 3 
 Final Project - Smart Car  
 Materials  
 - TM4C LaunchPad
@@ -11,5 +11,5 @@ This project requires us to combine most of the concepts learned throughout the 
 3. using a Moorse Finite State Machine
 4. using interrupts (GPIO & SysTick)
 
-<h2> Summary: </h2>
+#H2 Summary:
 The car will have two options, race or stage. Stagging will make the car reverse to get ready to race. While, race will make the car move forward for a maximum of 2 minutes if there is no objects in front of the car. If the IR sensor detects anything 2-3 inches away from the car, the car will stop moving. 
