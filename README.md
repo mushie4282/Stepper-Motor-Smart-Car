@@ -4,7 +4,7 @@ Final Project - Smart Car
 - Car with 2 stepper motor driven wheels
 - Power supply circuit
 - IR avoidance sensor
-
+  
 This project requires us to combine most of the concepts learned throughout the semester, including: <br>
 	1. interfacing an IR avoidance sensor <br>
 	2. interfacing stepper motors using wave or full driving <br>
